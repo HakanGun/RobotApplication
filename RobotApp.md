@@ -2,24 +2,24 @@
 
 ## Beskrivning
 
-RobotApp är en konsolapplikation som låter dig styra en robot i ett rum. Du kan ge kommandon för att få roboten att röra sig och rapportera sin position.
+RobotApp Ã¤r en konsolapplikation som lÃ¥ter dig styra en robot i ett rum. Du kan ge kommandon fÃ¶r att fÃ¥ roboten att rÃ¶ra sig och rapportera sin position.
 
 ## Funktioner
 
-- Flytta roboten framåt (F).
-- Vända roboten åt vänster (L) eller höger (R).
-- Förhindra att roboten går utanför rummets gränser.
+- Flytta roboten framÃ¥t (F).
+- VÃ¤nda roboten Ã¥t vÃ¤nster (L) eller hÃ¶ger (R).
+- FÃ¶rhindra att roboten gÃ¥r utanfÃ¶r rummets grÃ¤nser.
 - Rapportera robotens aktuella position och riktning.
 
 ## Installation
 
-### Förutsättningar
+### FÃ¶rutsÃ¤ttningar
 
-- **.NET 6.0** eller senare måste vara installerat.  
-  [Ladda ner .NET här](https://dotnet.microsoft.com/download/dotnet/6.0)
+- **.NET 6.0** eller senare mÃ¥ste vara installerat.  
+  [Ladda ner .NET hÃ¤r](https://dotnet.microsoft.com/download/dotnet/6.0)
 
 ### Klona repositoryt
 
 ```bash
-git clone https://github.com/HakanGun/RobotApplication/RobotApp.git
+git clone https://github.com/HakanGun/RobotApplication/RobotApp/RobotApp.git
 cd RobotApp
