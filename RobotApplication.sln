@@ -4,6 +4,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 17.11.35303.130
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "RobotApp", "RobotApp", "{1670F8AE-1C0D-4954-B00D-5B0FF9C61368}"
+	ProjectSection(SolutionItems) = preProject
+		RobotApp.md = RobotApp.md
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "RobotAppTest", "RobotAppTest", "{C012E98D-ACF2-4CF7-A723-41DDCFF69E9B}"
 EndProject
